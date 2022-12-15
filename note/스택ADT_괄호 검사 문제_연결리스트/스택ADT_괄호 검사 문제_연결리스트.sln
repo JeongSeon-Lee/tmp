@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "스택ADT_괄호 검사 문제_연결리스트", "스택ADT_괄호 검사 문제_연결리스트.vcxproj", "{23962535-3E07-44AD-A784-607B3808CC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23962535-3E07-44AD-A784-607B3808CC83}.Debug|x64.ActiveCfg = Debug|x64
+		{23962535-3E07-44AD-A784-607B3808CC83}.Debug|x64.Build.0 = Debug|x64
+		{23962535-3E07-44AD-A784-607B3808CC83}.Debug|x86.ActiveCfg = Debug|Win32
+		{23962535-3E07-44AD-A784-607B3808CC83}.Debug|x86.Build.0 = Debug|Win32
+		{23962535-3E07-44AD-A784-607B3808CC83}.Release|x64.ActiveCfg = Release|x64
+		{23962535-3E07-44AD-A784-607B3808CC83}.Release|x64.Build.0 = Release|x64
+		{23962535-3E07-44AD-A784-607B3808CC83}.Release|x86.ActiveCfg = Release|Win32
+		{23962535-3E07-44AD-A784-607B3808CC83}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A85ED5B-0310-4CF5-9782-408851FE9127}
+	EndGlobalSection
+EndGlobal
